@@ -1,5 +1,5 @@
 # ANN-and-DNN-Model
-# London Bike Sharing Demand Forecasting using ANN & DNN
+# London Bike Sharing prediction using ANN & DNN
 
 ## 📌 Objective
 
@@ -13,14 +13,14 @@ Secara khusus, tujuan dari proyek ini meliputi:
   - Linear Regression (sebagai baseline sederhana)
   - **Artificial Neural Network (ANN)** untuk menangkap hubungan non-linear
   - **Deep Neural Network (DNN)** untuk memodelkan hubungan kompleks
-- Membandingkan performa berbagai model dan memilih pendekatan terbaik untuk prediksi jangka pendek/mingguan.
+- Membandingkan performa berbagai model dan memilih pendekatan terbaik untuk prediksi jangka pendek.
 - Memberikan **insight strategis** berdasarkan hasil analisis dan model.
 
 ## 📂 Dataset
 
 Dataset yang digunakan adalah **London Bike Sharing Dataset (2015)** yang mencakup informasi harian seperti:
 - Jumlah peminjaman sepeda
-- Variabel cuaca (suhu, kelembapan, kecepatan angin, tekanan udara)
+- Variabel cuaca (suhu, kelembapan, kecepatan angin)
 - Informasi waktu (bulan, hari, jam)
 
 ## 🧠 Models
@@ -40,7 +40,5 @@ Model dibangun menggunakan **TensorFlow/Keras** dan dibandingkan menggunakan met
 
 ## 🚀 How to Run
 
-1. Clone repository ini
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
+Clone repository ini, jalankan digoogle colab/Jupyter notebook.
+
